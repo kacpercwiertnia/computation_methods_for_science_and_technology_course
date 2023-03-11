@@ -1,4 +1,5 @@
 .DS_Store
+.vscode
 /lab1/.DS_Store
 /lab1/.ipnyb_checkpoints
 /lab2/.DS_Store
